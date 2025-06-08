@@ -1,4 +1,4 @@
-Please summarize the following text in a concise and clear paragraph:
+Summarize the text below as a bullet point list of the most important points:
 
 """
 {{TEXT}}
