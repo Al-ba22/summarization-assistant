@@ -1,0 +1,5 @@
+Please summarize the following text in a concise and clear paragraph:
+
+"""
+{{TEXT}}
+"""
